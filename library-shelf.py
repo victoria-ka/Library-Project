@@ -35,9 +35,7 @@ def library_menu():
         checked_out_books()4
     else:
         print('')
-
-    
-
+ 
 
 library_menu()
 
@@ -56,7 +54,7 @@ def search_books():
     #for each result in the array
 
 def add_book():
-    variable = 0#define array for new book 
+    variable = 0 #define array for new book 
 
 def checked_out_books():
-    variable = 0#show books user has checked out already
+    variable = 0 #show books user has checked out already
